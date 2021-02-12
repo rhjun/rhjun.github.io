@@ -1,6 +1,3 @@
 ### Hi there 
-https://starssr.com
-ssrstar
+https：//rhjun.cn
 
-<!--
-**starssr/starssr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
